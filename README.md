@@ -1,4 +1,12 @@
-### Hi there 👋
+### 안녕하세요, 김민준입니다 👋
+
+현재 백엔드 공부에 관심이 있는 컴퓨터 공학생입니다. 
+
+Notion 
+https://sleet-sugar-30b.notion.site/89813d8669ff4ad7a687296b8428ebda
+
+Tistory 
+https://minjun98.tistory.com/
 
 <!--
 **kidmillionaire1229/kidmillionaire1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
