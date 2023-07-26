@@ -1,7 +1,7 @@
 ### 안녕하세요, 김민준입니다 👋
 
-Notion 
-https://sleet-sugar-30b.notion.site/89813d8669ff4ad7a687296b8428ebda
+
+
 
 Tistory 
 https://minjun98.tistory.com/
