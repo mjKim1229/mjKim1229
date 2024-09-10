@@ -22,7 +22,7 @@
 |------|---|
 |2019.03 ~ |숭실대학교(서울) 융합특성화자유전공학부|
 |2022.12 ~ 2023.09|카페 자리 확인 서비스 [카자잇](https://github.com/CaZaIt/CaZaIt-Server) 백엔드|
-|2022.12 ~ 2023.09|숭실대학교 동아리 서비스 [클러](https://github.com/Clubber2024/Clubber-Server) 백엔드|
+|2022.12 ~ 2023.09|숭실대학교 동아리 서비스 [클러버](https://github.com/Clubber2024/Clubber-Server) 백엔드|
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj1229)](https://solved.ac/백준아이디/)
