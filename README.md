@@ -1,10 +1,20 @@
-<div align="center"><h3> 안녕하세요 백엔드 개발자 김민준입니다<br>
+<div align="center">
+<div>
+  <h3>안녕하세요 백엔드 개발자 김민준입니다</h3>
+</div>
 <br>
-<div align="center"><h1>🛠️ Tech Stack</h1></div>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<div>
+  <h3>🛠️ Tech Stack</h3>
+  <span>
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  </span>
+</div>
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj1229)](https://solved.ac/백준아이디/)
 </div>
 
 <!--
