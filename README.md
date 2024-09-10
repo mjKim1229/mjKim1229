@@ -14,15 +14,17 @@
 </div>
 <br>
 
- ## 🗓 History 
 
-    
-    
-|기간|활동|
-|------|---|
-|2019.03 ~ |숭실대학교(서울) 융합특성화자유전공학부|
-|2022.12 ~ 2023.09|카페 자리 확인 서비스 [카자잇](https://github.com/CaZaIt/CaZaIt-Server) 백엔드|
-|2022.12 ~ 2023.09|숭실대학교 동아리 서비스 [클러버](https://github.com/Clubber2024/Clubber-Server) 백엔드|
+## 🗓 History 
+
+  <div align=left>
+
+  <li>숭실대학교 소프트웨어학부 <sub>(2019.03 ~)</sub></li>
+  <li>GDSC Soongsil 서버 파트</a> <sub>(2022.09 ~ 2023.08 )</sub></li>
+  <li>SSUMC 서버파트</a> <sub>(2022.09 ~ 2023.02)</sub></li>
+  <br>
+  <li>카페 자리 확인 서비스 <a href="https://github.com/CaZaIt/CaZaIt-Server">카자잇</a> (2023.01 ~ 2023.09)</sub></li>
+ <li>숭실대학교 동아리 서비스 <a href="https://github.com/Clubber2024/Clubber-Server">클러버</a> (2024.03 ~ )</sub></li>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj1229)](https://solved.ac/백준아이디/)
