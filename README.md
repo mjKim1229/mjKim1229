@@ -17,7 +17,7 @@
 
 ## 🗓 History 
 
-  <div align=left>
+  <div align=center>
 
   <li>숭실대학교 소프트웨어학부 <sub>(2019.03 ~)</sub></li>
   <li>GDSC Soongsil 서버 파트</a> <sub>(2022.09 ~ 2023.08 )</sub></li>
