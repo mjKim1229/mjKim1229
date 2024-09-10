@@ -26,7 +26,8 @@
   <li>카페 자리 확인 서비스 <a href="https://github.com/CaZaIt/CaZaIt-Server">카자잇</a> <sub>(2023.01 ~ 2023.09)</sub></li>
  <li>숭실대학교 동아리 서비스 <a href="https://github.com/Clubber2024/Clubber-Server">클러버</a> <sub>(2024.03 ~ )</sub></li>
 
-<br>
+<br></br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj1229)](https://solved.ac/백준아이디/)
 </div>
 
