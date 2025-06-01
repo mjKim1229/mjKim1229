@@ -19,7 +19,7 @@
 
   <div align=center>
 
-  <li>숭실대학교 소프트웨어학부 <sub>(2019.03 ~)</sub></li>
+  <li>숭실대학교 소프트웨어학부 <sub>(2019.03 ~ 2025.08)</sub></li>
   <li>GDSC Soongsil 서버 파트</a> <sub>(2022.09 ~ 2023.08 )</sub></li>
   <li>SSUMC 서버파트</a> <sub>(2022.09 ~ 2023.02)</sub></li>
   <br>
