@@ -14,23 +14,6 @@
 </div>
 <br>
 
-
-## 🗓 History 
-
-  <div align=center>
-
-  <li>숭실대학교 소프트웨어학부 <sub>(2019.03 ~ 2025.08)</sub></li>
-  <li>GDSC Soongsil 서버 파트</a> <sub>(2022.09 ~ 2023.08 )</sub></li>
-  <li>SSUMC 서버파트</a> <sub>(2022.09 ~ 2023.02)</sub></li>
-  <br>
-  <li>카페 자리 확인 서비스 <a href="https://github.com/CaZaIt/CaZaIt-Server">카자잇</a> <sub>(2023.01 ~ 2023.09)</sub></li>
- <li>숭실대학교 동아리 서비스 <a href="https://github.com/Clubber2024/Clubber-Server">클러버</a> <sub>(2024.03 ~ )</sub></li>
-
-<br></br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj1229)](https://solved.ac/백준아이디/)
-</div>
-
 <!--
 **kidmillionaire1229/kidmillionaire1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
